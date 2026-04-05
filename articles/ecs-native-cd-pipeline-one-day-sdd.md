@@ -142,6 +142,12 @@ docs/designs/cd-stack/
 
 **「別プロジェクトの検証環境」としての個人開発は最強。** 失敗しても影響がない環境で新技術を検証し、設計判断と知見を文書化しておけば、本番プロジェクトへのフィードバックが圧倒的にスムーズになる。
 
+## サンプルリポジトリ
+
+この記事で解説した CD 基盤の実装コード（Terraform + GitHub Actions）をサンプルリポジトリとして公開しています。
+
+👉 **[toguri/example-ecs-native-cd](https://github.com/toguri/example-ecs-native-cd)**
+
 ## 参考
 
 - [Amazon ECS Native Deployment Strategy](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-ecs.html)
