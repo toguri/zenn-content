@@ -191,4 +191,4 @@ iso-flow は sqlx の compile-time check を使っているので、DB なしで
 
 - [async-graphql book — SDL export](https://async-graphql.github.io/async-graphql/en/sdl_export.html)
 - [本家 async-graphql リポジトリ](https://github.com/async-graphql/async-graphql)
-- 元ネタの PR: [iso-flow#137](https://github.com/toguri/iso-flow/pull/137)
+- この仕組みが動いている本番サイト: [nba-iso-flow.com](https://nba-iso-flow.com)
